@@ -44,8 +44,8 @@ python pdf_merger_app.py
 
 ## Screenshot
 
-[Screenshot of the application would go here]
+![image](https://github.com/user-attachments/assets/15fb8460-72de-4a4d-95e3-36d90c879670)
+
 
 ## License
-
-[License information] 
+you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. See the file COPYING in this directory or http://www.gnu.org/licenses/, for a description of the GNU General Public License terms under which you can copy the files.
